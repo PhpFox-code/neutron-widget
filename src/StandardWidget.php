@@ -2,7 +2,7 @@
 
 namespace Phpfox\Widget;
 
-class StandardWidget
+abstract class StandardWidget implements WidgetInterface
 {
 
 }
