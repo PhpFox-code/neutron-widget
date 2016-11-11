@@ -1,0 +1,19 @@
+{
+  "name": "phpredeye/phpfox-widget",
+  "description": "PhpFox Widget Component",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Nam Nguyen",
+      "email": "nam.ngvan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": false,
+  "autoload": {
+    "psr-4": {
+      "Phpfox\\Widget\\": "src/"
+    }
+  },
+  "require": {}
+}
