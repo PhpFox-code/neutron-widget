@@ -2,6 +2,7 @@
   "name": "codelego/phpfox-widget",
   "description": "PhpFox Widget Component",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Nam Nguyen",
