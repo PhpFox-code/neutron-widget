@@ -1,5 +1,5 @@
 <?php
-namespace Phpfox\Widget;
+namespace Phpfox\WidgetManager;
 
 return [
     'factories' => [

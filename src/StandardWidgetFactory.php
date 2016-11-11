@@ -1,14 +1,14 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Phpfox\WidgetManager;
 
-use Phpfox\Service\FactoryInterface;
-use Phpfox\Service\ServiceManager;
+use Phpfox\ServiceManager\FactoryInterface;
+use Phpfox\ServiceManager\ServiceManager;
 
 /**
  * Class StandardWidgetFactory
  *
- * @package Phpfox\Widget
+ * @package Phpfox\WidgetManager
  */
 class StandardWidgetFactory implements FactoryInterface
 {

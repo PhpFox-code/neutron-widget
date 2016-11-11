@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Phpfox\WidgetManager;
 
 abstract class StandardWidget implements WidgetInterface
 {
