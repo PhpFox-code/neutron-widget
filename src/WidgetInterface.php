@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\WidgetManager;
+namespace Phpfox\ViewWidget;
 
 interface WidgetInterface
 {

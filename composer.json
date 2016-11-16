@@ -1,5 +1,5 @@
 {
-  "name": "codelego/phpfox-widget-manager",
+  "name": "codelego/phpfox-view-widget",
   "description": "Widget manager library for phpfox framework.",
   "type": "library",
   "license": "MIT",
@@ -13,15 +13,14 @@
   "prefer-stable": false,
   "autoload": {
     "psr-4": {
-      "Phpfox\\WidgetManager\\": "src/"
+      "Phpfox\\ViewWidget\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Phpfox\\WidgetManager\\": "src/"
+      "Phpfox\\ViewWidget\\": "src/"
     }
   },
   "require": {
-    "codelego/phpfox-view-manager": "dev-master"
   }
 }

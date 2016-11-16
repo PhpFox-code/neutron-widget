@@ -1,12 +1,12 @@
 <?php
 
-namespace Phpfox\WidgetManager;
+namespace Phpfox\ViewWidget;
 
 
 /**
  * Class WidgetManagerFactory
  *
- * @package Phpfox\WidgetManager
+ * @package Phpfox\ViewWidget
  */
 class WidgetManagerFactory
 {
