@@ -2,7 +2,7 @@
 namespace Phpfox\ViewWidget;
 
 return [
-    'factories' => [
-        'widgetManager' => WidgetManagerFactory::class,
+    'services' => [
+        'widgets' => WidgetManager::class,
     ],
 ];

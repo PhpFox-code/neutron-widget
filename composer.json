@@ -18,9 +18,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Phpfox\\ViewWidget\\": "src/"
+      "Phpfox\\ViewWidget\\": "test/"
     }
-  },
-  "require": {
   }
 }
