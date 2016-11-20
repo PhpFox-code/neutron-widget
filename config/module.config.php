@@ -3,8 +3,6 @@ namespace Phpfox\ViewWidget;
 
 return [
     'services' => [
-        'map' => [
-            'widgets' => [null, WidgetManager::class,],
-        ],
+        'widgets' => [null, WidgetManager::class,],
     ],
 ];
