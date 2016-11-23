@@ -1,1 +1,1 @@
-# phpfox-widget-manager
+# phpfox-widget

@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\ViewWidget;
+namespace Phpfox\Widget;
 
 use Phpfox\Service\FactoryInterface;
 use Phpfox\Service\ServiceManager;

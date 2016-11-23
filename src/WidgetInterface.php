@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\ViewWidget;
+namespace Phpfox\Widget;
 
 /**
  * Interface WidgetInterface
  *
- * @package Phpfox\ViewWidget
+ * @package Phpfox\Widget
  */
 interface WidgetInterface
 {

@@ -1,6 +1,6 @@
 {
-  "name": "codelego/phpfox-view-widget",
-  "description": "View widget library for phpfox framework.",
+  "name": "codelego/phpfox-widget",
+  "description": "Widget library for phpfox framework.",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -13,12 +13,12 @@
   "prefer-stable": false,
   "autoload": {
     "psr-4": {
-      "Phpfox\\ViewWidget\\": "src/"
+      "Phpfox\\Widget\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Phpfox\\ViewWidget\\": "test/"
+      "Phpfox\\Widget\\": "test/"
     }
   }
 }

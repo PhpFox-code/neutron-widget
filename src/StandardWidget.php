@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\ViewWidget;
+namespace Phpfox\Widget;
 
 /**
  * Class StandardWidget
  *
- * @package Phpfox\ViewWidget
+ * @package Phpfox\Widget
  */
 class StandardWidget implements WidgetInterface
 {
