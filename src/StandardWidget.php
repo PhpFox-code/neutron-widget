@@ -66,7 +66,7 @@ class StandardWidget implements WidgetInterface
     /**
      * @inheritdoc
      */
-    public function dispatch()
+    public function resolve()
     {
         return false;
     }

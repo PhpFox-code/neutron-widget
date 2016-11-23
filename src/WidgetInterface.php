@@ -47,5 +47,5 @@ interface WidgetInterface
     /**
      * @return mixed
      */
-    public function dispatch();
+    public function resolve();
 }
