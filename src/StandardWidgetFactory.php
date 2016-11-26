@@ -10,10 +10,9 @@ use Phpfox\Service\ServiceManager;
  *
  * @package Phpfox\WidgetManager
  */
-class StandardWidgetFactory implements FactoryInterface
+class StandardWidgetFactory
 {
     public function factory(
-        ServiceManager $serviceManager,
         $name,
         $options = []
     ) {
