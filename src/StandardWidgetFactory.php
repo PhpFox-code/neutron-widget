@@ -2,8 +2,8 @@
 
 namespace Phpfox\Widget;
 
-use Phpfox\Service\FactoryInterface;
-use Phpfox\Service\ServiceManager;
+use Phpfox\Service\ServiceFactoryInterface;
+use Phpfox\Service\ServiceContainer;
 
 /**
  * Class StandardWidgetFactory
