@@ -1,5 +1,5 @@
 <?php
-namespace Phpfox\Widget;
+namespace Neutron\Widget;
 
 return [
     'services' => [

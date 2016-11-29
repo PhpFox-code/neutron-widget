@@ -1,14 +1,14 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Neutron\Widget;
 
-use Phpfox\Service\ServiceFactoryInterface;
-use Phpfox\Service\ServiceContainer;
+use Neutron\Service\ServiceFactoryInterface;
+use Neutron\Service\ServiceContainer;
 
 /**
  * Class StandardWidgetFactory
  *
- * @package Phpfox\WidgetManager
+ * @package Neutron\WidgetManager
  */
 class StandardWidgetFactory
 {

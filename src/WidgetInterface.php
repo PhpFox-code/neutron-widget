@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Neutron\Widget;
 
 /**
  * Interface WidgetInterface
  *
- * @package Phpfox\Widget
+ * @package Neutron\Widget
  */
 interface WidgetInterface
 {

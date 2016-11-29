@@ -1,11 +1,11 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Neutron\Widget;
 
 /**
  * Class StandardWidget
  *
- * @package Phpfox\Widget
+ * @package Neutron\Widget
  */
 class StandardWidget implements WidgetInterface
 {

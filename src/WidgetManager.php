@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpfox\Widget;
+namespace Neutron\Widget;
 
 class WidgetManager
 {
